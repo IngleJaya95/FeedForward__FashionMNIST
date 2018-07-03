@@ -1,0 +1,1 @@
+python train.py --lr 1e-3 --momentum 0.5 --num_hidden 1 --sizes 250 --activation sigmoid --loss ce --opt adam --batch_size 50 --anneal false --save_dir "" --expt_dir "" --train "" --val "" --test "" --epochs 6

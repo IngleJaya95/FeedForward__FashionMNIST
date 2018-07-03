@@ -1,0 +1,7 @@
+--anneal: true,false
+--opt: gd,momentum,nag,adam
+--loss: sq,ce
+--activation: tanh,sigmoid
+
+additional feature : Train data shuffling | can be "on" from code only
+epochs need to be set in run.sh
